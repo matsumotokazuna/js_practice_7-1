@@ -1,1 +1,2 @@
 # js_practice_7-1
+DMM WEBCAMPの学習コンテンツJavaScriptを学ぼうの「JavaScriptの概要を学ぼう」の研修課題です。
